@@ -6,7 +6,10 @@ Features:
 
 2. Nested Routes: Creates parent-child relationships between routes, enabling features like layouts and shared components.
 
-3. Active Links: Introducing components (Link and NavLink) that automatically apply styles, highlighting the active link based on the current URL. Say goodbye to confusion and hello to a visually enriched user experience! 🎨
+3. Active Links: 
+Provides components (Link and NavLink) that automatically apply styles to indicate the active link based on the current URL.
+Enhances user experience by visually highlighting the current page.
+
 
 4.GitHub API Integration: fetches followers and profile photo from my github profile using github api
 
